@@ -3,10 +3,10 @@ body
 	background: url("sluts.jpg") no-repeat center center fixed;
 	background-size: cover; 
 	-moz-background-size: cover;
-	-webkit-background-size: cover; /* chromefags in 2018 OMEGALUL */
+	-webkit-background-size: cover; 
 	margin: 0;
 	padding: 0;
-	font-family: "DejaVu Sans", sans-serif;  /* I'VE JUST BEEN IN THIS PLACE BEFORE */
+	font-family: "DejaVu Sans", sans-serif;  
 }
 
 
@@ -55,14 +55,14 @@ body
 	font-size: 13pt;
 	text-align: center;
 	vertical-align: middle;
-	height: 27px; /* set this to like 19-20 if there are no moonrunes in the header */
+	height: 27px; 
 	color: #510063;
 }
 
 
 #boxHeader1 
 { 
-	background-color: #f8ddff; /* #dd75f4 */
+	background-color: #f8ddff; 
 }
 
 
@@ -70,7 +70,7 @@ a:link,
 a:visited 
 { 
 	text-decoration: none;
-	color: #f3e1f7; /* light pink also works */
+	color: #f3e1f7; 
 }
 
 ul 
@@ -81,7 +81,7 @@ ul
 }
 
 
-/* i literally  copypasted this */
+
 @media only screen and (max-width: 871px) { 
 	.box  
 	{
