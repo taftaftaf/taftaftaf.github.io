@@ -1,0 +1,99 @@
+body 
+{
+	background: url("sluts.jpg") no-repeat center center fixed;
+	background-size: cover; 
+	-moz-background-size: cover;
+	-webkit-background-size: cover; /* chromefags in 2018 OMEGALUL */
+	margin: 0;
+	padding: 0;
+	font-family: "DejaVu Sans", sans-serif;  /* I'VE JUST BEEN IN THIS PLACE BEFORE */
+}
+
+
+.pageContainer 
+{
+	height: 100%;
+	width: 100%;
+	position: absolute;
+}
+
+
+
+.vertAlign 
+{
+	position: relative;
+	top: 10%; // set to like 50% if you don't wanna see those HOT hands
+	transform: translateY(-50%);
+	width: 25%;
+	margin: auto;
+}
+
+
+
+.boxContainer 
+{
+	display: table;
+	width: 100%;
+	border-spacing: 26px; 
+}
+
+
+
+.box 
+{
+	display: table-cell;
+	width: 33.3%;
+	height: 200px;
+	text-align: center;
+	background-color: #1c1c1c;
+	border: 12px solid #161616;
+	padding: 10px;
+}
+
+.boxHeader 
+{
+	font-size: 13pt;
+	text-align: center;
+	vertical-align: middle;
+	height: 27px; /* set this to like 19-20 if there are no moonrunes in the header */
+	color: #510063;
+}
+
+
+#boxHeader1 
+{ 
+	background-color: #f8ddff; /* #dd75f4 */
+}
+
+
+a:link, 
+a:visited 
+{ 
+	text-decoration: none;
+	color: #f3e1f7; /* light pink also works */
+}
+
+ul 
+{
+	list-style-type: none;
+	text-align: center;
+	padding: 0;
+}
+
+
+/* i literally  copypasted this */
+@media only screen and (max-width: 871px) { 
+	.box  
+	{
+		display: block;
+		width: 75%;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 24px;
+	}
+	.vertAlign {
+		transform: translateY(0%);
+		top: 0%;
+		bottom: 0%;
+	}
+}
