@@ -62,7 +62,7 @@ body
 
 #boxHeader1 
 { 
-	background-color: #f8ddff; /* #dd75f4 */
+	background-color: #25486F; /* #dd75f4 */
 }
 
 
@@ -70,7 +70,7 @@ a:link,
 a:visited 
 { 
 	text-decoration: none;
-	color: #f3e1f7; /* light pink also works */
+	color: #205474; /* light pink also works */
 }
 
 ul 
