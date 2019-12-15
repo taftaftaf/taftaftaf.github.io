@@ -56,13 +56,13 @@ body
 	text-align: center;
 	vertical-align: middle;
 	height: 27px; 
-	color: #003366;
+	color: #467E4E;
 }
 
 
 #boxHeader1 
 { 
-	background-color: #25486F; 
+	background-color: #51C57E; 
 }
 
 
@@ -70,7 +70,7 @@ a:link,
 a:visited 
 { 
 	text-decoration: none;
-	color: #3583B4; 
+	color: #194128; 
 }
 
 ul 
